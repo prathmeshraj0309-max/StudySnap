@@ -2,10 +2,22 @@
 
 Study Smarter. Learn Faster.
 
-A simple study application built using Python.
+A student productivity application that helps students organize notes and revise efficiently.
 
-Features:
+## Features
+
 - Add Notes
 - View Notes
 - Search Notes
-- Quiz Mode
+- Revision Quiz Mode
+- Automatic Save
+- JSON Storage
+
+## Tech Stack
+
+- Python
+- JSON
+
+## Author
+
+Prathmesh Raj
